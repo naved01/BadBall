@@ -1,8 +1,6 @@
 # BadBall
 Classic Breakout Game.
 
-![mainScreen](https://image.ibb.co/hEDVZa/badball.png)
-
 ![gamePlay](https://image.ibb.co/ebe9Sv/Screen_Shot_2017_07_11_at_11_07_24_AM.png)
 
 ## About:
